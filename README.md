@@ -1,3 +1,3 @@
-# Site html
+# Site html/css
 
-site feito em html e css para facudade
+Site feito em html e css para faculdade
